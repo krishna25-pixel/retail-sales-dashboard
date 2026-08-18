@@ -1,0 +1,161 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice
+P1001,Mobiles Edge 561,Electronics,Mobiles & Tablets,Novara,439.88,774.6
+P1002,Mobiles Pro 598,Electronics,Mobiles & Tablets,Orbit,449.32,628.01
+P1003,Mobiles Pro 783,Electronics,Mobiles & Tablets,Novara,758.66,1332.16
+P1004,Mobiles Neo 433,Electronics,Mobiles & Tablets,Zenith,462.71,676.39
+P1005,Laptops Classic 729,Electronics,Laptops & Computers,Zenith,235.37,421.6
+P1006,Laptops Lite 823,Electronics,Laptops & Computers,Zenith,762.45,1052.14
+P1007,Laptops Max 202,Electronics,Laptops & Computers,Nimbus,725.28,972.5
+P1008,Laptops Classic 641,Electronics,Laptops & Computers,Zenith,466.3,675.0
+P1009,Laptops Neo 363,Electronics,Laptops & Computers,Nimbus,438.11,627.77
+P1010,Audio Pro 180,Electronics,Audio & Headphones,Crestline,536.77,678.88
+P1011,Audio Edge 314,Electronics,Audio & Headphones,Pulse,458.74,687.04
+P1012,Audio Plus 339,Electronics,Audio & Headphones,Crestline,596.83,1017.48
+P1013,Audio Neo 732,Electronics,Audio & Headphones,Urban Edge,718.58,1111.1
+P1014,Audio Lite 663,Electronics,Audio & Headphones,Novara,330.88,506.54
+P1015,Audio Classic 709,Electronics,Audio & Headphones,Novara,612.87,823.67
+P1016,Cameras Classic 475,Electronics,Cameras,Nimbus,219.89,411.86
+P1017,Cameras Edge 340,Electronics,Cameras,Kindred,721.84,1124.46
+P1018,Cameras Lite 383,Electronics,Cameras,Novara,506.95,816.25
+P1019,Cameras Neo 306,Electronics,Cameras,Urban Edge,631.24,1164.89
+P1020,Accessories Classic 563,Electronics,Accessories,Kindred,534.98,769.89
+P1021,Accessories Max 860,Electronics,Accessories,Orbit,847.56,1471.86
+P1022,Accessories Edge 771,Electronics,Accessories,Pulse,812.63,1065.68
+P1023,Accessories Max 747,Electronics,Accessories,Orbit,848.19,1390.69
+P1024,Men's Max 351,Apparel,Men's Wear,Novara,71.75,100.39
+P1025,Men's Pro 743,Apparel,Men's Wear,Zenith,17.99,31.89
+P1026,Men's Edge 382,Apparel,Men's Wear,Kindred,18.15,30.5
+P1027,Men's Edge 476,Apparel,Men's Wear,Zenith,83.83,112.44
+P1028,Women's Lite 845,Apparel,Women's Wear,Urban Edge,84.51,111.63
+P1029,Women's Edge 932,Apparel,Women's Wear,Nimbus,51.52,76.94
+P1030,Women's Neo 194,Apparel,Women's Wear,Orbit,79.13,140.92
+P1031,Women's Pro 240,Apparel,Women's Wear,Urban Edge,19.99,27.13
+P1032,Women's Plus 711,Apparel,Women's Wear,Orbit,17.47,28.55
+P1033,Women's Lite 305,Apparel,Women's Wear,Urban Edge,49.37,69.31
+P1034,Women's Pro 146,Apparel,Women's Wear,Nimbus,42.13,75.49
+P1035,Kids Classic 800,Apparel,Kids Wear,Crestline,77.17,128.7
+P1036,Kids Pro 154,Apparel,Kids Wear,Novara,50.17,71.4
+P1037,Kids Max 716,Apparel,Kids Wear,Urban Edge,42.18,63.14
+P1038,Kids Lite 281,Apparel,Kids Wear,Orbit,83.14,139.19
+P1039,Kids Neo 218,Apparel,Kids Wear,Kindred,59.9,108.39
+P1040,Kids Classic 465,Apparel,Kids Wear,Aster,67.51,119.53
+P1041,Kids Max 253,Apparel,Kids Wear,Novara,73.2,120.82
+P1042,Footwear Pro 937,Apparel,Footwear,Orbit,46.21,75.77
+P1043,Footwear Pro 763,Apparel,Footwear,Orbit,15.19,22.28
+P1044,Footwear Plus 493,Apparel,Footwear,Crestline,30.18,56.1
+P1045,Footwear Lite 104,Apparel,Footwear,Crestline,53.35,100.89
+P1046,Footwear Plus 111,Apparel,Footwear,Zenith,17.72,30.04
+P1047,Footwear Plus 589,Apparel,Footwear,Novara,32.22,56.64
+P1048,Winter Neo 660,Apparel,Winter Wear,Zenith,31.28,52.32
+P1049,Winter Lite 689,Apparel,Winter Wear,Kindred,10.38,19.12
+P1050,Winter Pro 701,Apparel,Winter Wear,Orbit,12.24,15.75
+P1051,Winter Classic 553,Apparel,Winter Wear,Aster,71.31,94.93
+P1052,Winter Edge 569,Apparel,Winter Wear,Kindred,77.79,133.14
+P1053,Living Classic 792,Home & Furniture,Living Room,Novara,36.09,47.27
+P1054,Living Plus 370,Home & Furniture,Living Room,Nimbus,317.95,592.95
+P1055,Living Classic 216,Home & Furniture,Living Room,Novara,377.43,588.11
+P1056,Living Max 467,Home & Furniture,Living Room,Orbit,135.79,206.08
+P1057,Living Max 415,Home & Furniture,Living Room,Aster,33.7,54.67
+P1058,Living Plus 662,Home & Furniture,Living Room,Aster,267.92,410.04
+P1059,Bedroom Max 382,Home & Furniture,Bedroom,Aster,356.83,631.56
+P1060,Bedroom Edge 538,Home & Furniture,Bedroom,Novara,47.38,69.52
+P1061,Bedroom Max 640,Home & Furniture,Bedroom,Vantage,25.58,34.53
+P1062,Bedroom Pro 777,Home & Furniture,Bedroom,Pulse,398.28,680.46
+P1063,Bedroom Neo 989,Home & Furniture,Bedroom,Kindred,99.44,178.36
+P1064,Kitchen Pro 489,Home & Furniture,Kitchen & Dining,Nimbus,73.81,128.49
+P1065,Kitchen Plus 995,Home & Furniture,Kitchen & Dining,Aster,364.7,572.08
+P1066,Kitchen Edge 785,Home & Furniture,Kitchen & Dining,Vantage,112.59,189.79
+P1067,Kitchen Pro 432,Home & Furniture,Kitchen & Dining,Aster,148.61,268.07
+P1068,Kitchen Pro 458,Home & Furniture,Kitchen & Dining,Kindred,343.1,452.29
+P1069,Kitchen Neo 477,Home & Furniture,Kitchen & Dining,Pulse,148.77,229.3
+P1070,Home Classic 985,Home & Furniture,Home Decor,Crestline,287.15,448.07
+P1071,Home Edge 495,Home & Furniture,Home Decor,Vantage,386.02,666.3
+P1072,Home Plus 104,Home & Furniture,Home Decor,Novara,394.14,581.44
+P1073,Home Pro 813,Home & Furniture,Home Decor,Vantage,206.09,312.74
+P1074,Storage Lite 198,Home & Furniture,Storage,Kindred,371.39,475.99
+P1075,Storage Classic 191,Home & Furniture,Storage,Vantage,348.87,489.28
+P1076,Storage Classic 703,Home & Furniture,Storage,Urban Edge,215.56,394.94
+P1077,Storage Max 594,Home & Furniture,Storage,Orbit,344.27,491.84
+P1078,Staples Max 580,Grocery,Staples,Novara,20.57,31.17
+P1079,Staples Lite 220,Grocery,Staples,Novara,15.69,24.68
+P1080,Staples Lite 897,Grocery,Staples,Kindred,12.43,18.93
+P1081,Staples Lite 576,Grocery,Staples,Kindred,22.63,41.66
+P1082,Staples Edge 101,Grocery,Staples,Urban Edge,7.55,13.73
+P1083,Staples Max 832,Grocery,Staples,Vantage,12.08,20.4
+P1084,Staples Neo 940,Grocery,Staples,Nimbus,4.34,6.88
+P1085,Beverages Pro 810,Grocery,Beverages,Pulse,7.66,12.14
+P1086,Beverages Plus 454,Grocery,Beverages,Urban Edge,3.39,4.91
+P1087,Beverages Lite 468,Grocery,Beverages,Nimbus,2.03,2.97
+P1088,Beverages Lite 305,Grocery,Beverages,Crestline,9.42,15.95
+P1089,Snacks Pro 926,Grocery,Snacks,Zenith,18.37,24.61
+P1090,Snacks Pro 718,Grocery,Snacks,Orbit,16.26,26.57
+P1091,Snacks Max 925,Grocery,Snacks,Aster,5.74,8.13
+P1092,Snacks Plus 366,Grocery,Snacks,Urban Edge,20.7,33.96
+P1093,Snacks Classic 751,Grocery,Snacks,Orbit,2.69,3.65
+P1094,Dairy Pro 255,Grocery,Dairy,Crestline,15.66,26.63
+P1095,Dairy Plus 181,Grocery,Dairy,Orbit,24.84,45.54
+P1096,Dairy Neo 851,Grocery,Dairy,Novara,3.16,5.32
+P1097,Dairy Pro 775,Grocery,Dairy,Vantage,7.83,11.81
+P1098,Dairy Pro 815,Grocery,Dairy,Pulse,24.62,30.97
+P1099,Dairy Plus 338,Grocery,Dairy,Novara,11.09,20.78
+P1100,Packaged Max 471,Grocery,Packaged Food,Aster,12.81,19.16
+P1101,Packaged Neo 817,Grocery,Packaged Food,Aster,15.11,27.39
+P1102,Packaged Pro 665,Grocery,Packaged Food,Pulse,24.52,44.8
+P1103,Packaged Pro 276,Grocery,Packaged Food,Pulse,11.41,17.73
+P1104,Packaged Lite 278,Grocery,Packaged Food,Zenith,17.74,24.99
+P1105,Packaged Plus 333,Grocery,Packaged Food,Novara,6.65,10.33
+P1106,Skincare Lite 787,Beauty & Personal Care,Skincare,Pulse,11.09,15.98
+P1107,Skincare Neo 299,Beauty & Personal Care,Skincare,Aster,8.95,12.96
+P1108,Skincare Pro 865,Beauty & Personal Care,Skincare,Pulse,14.09,19.08
+P1109,Skincare Classic 642,Beauty & Personal Care,Skincare,Kindred,46.8,64.79
+P1110,Haircare Pro 266,Beauty & Personal Care,Haircare,Urban Edge,14.87,22.94
+P1111,Haircare Lite 244,Beauty & Personal Care,Haircare,Zenith,34.2,48.19
+P1112,Haircare Neo 424,Beauty & Personal Care,Haircare,Novara,34.14,52.31
+P1113,Haircare Max 327,Beauty & Personal Care,Haircare,Orbit,14.0,19.39
+P1114,Haircare Pro 693,Beauty & Personal Care,Haircare,Novara,30.58,48.79
+P1115,Makeup Neo 937,Beauty & Personal Care,Makeup,Pulse,55.64,71.36
+P1116,Makeup Lite 674,Beauty & Personal Care,Makeup,Crestline,16.66,25.56
+P1117,Makeup Pro 546,Beauty & Personal Care,Makeup,Pulse,12.1,20.09
+P1118,Makeup Classic 954,Beauty & Personal Care,Makeup,Aster,41.3,64.31
+P1119,Makeup Lite 349,Beauty & Personal Care,Makeup,Kindred,29.73,51.65
+P1120,Makeup Neo 605,Beauty & Personal Care,Makeup,Novara,25.15,38.03
+P1121,Makeup Edge 332,Beauty & Personal Care,Makeup,Novara,23.83,36.6
+P1122,Fragrances Pro 944,Beauty & Personal Care,Fragrances,Orbit,22.96,40.31
+P1123,Fragrances Neo 918,Beauty & Personal Care,Fragrances,Crestline,12.63,21.32
+P1124,Fragrances Max 745,Beauty & Personal Care,Fragrances,Kindred,19.03,27.75
+P1125,Fragrances Max 941,Beauty & Personal Care,Fragrances,Orbit,53.13,81.75
+P1126,Fragrances Edge 958,Beauty & Personal Care,Fragrances,Kindred,23.38,43.09
+P1127,Fragrances Classic 315,Beauty & Personal Care,Fragrances,Vantage,46.94,72.61
+P1128,Fragrances Classic 613,Beauty & Personal Care,Fragrances,Novara,17.04,30.83
+P1129,Personal Pro 505,Beauty & Personal Care,Personal Hygiene,Kindred,47.59,71.55
+P1130,Personal Neo 224,Beauty & Personal Care,Personal Hygiene,Aster,56.31,72.94
+P1131,Personal Edge 555,Beauty & Personal Care,Personal Hygiene,Aster,50.79,77.47
+P1132,Personal Classic 754,Beauty & Personal Care,Personal Hygiene,Novara,59.97,78.67
+P1133,Personal Neo 712,Beauty & Personal Care,Personal Hygiene,Orbit,41.97,73.95
+P1134,Fitness Edge 612,Sports & Outdoors,Fitness Equipment,Orbit,224.33,301.39
+P1135,Fitness Edge 796,Sports & Outdoors,Fitness Equipment,Zenith,10.12,15.53
+P1136,Fitness Pro 508,Sports & Outdoors,Fitness Equipment,Orbit,207.55,332.14
+P1137,Fitness Edge 517,Sports & Outdoors,Fitness Equipment,Pulse,131.0,227.64
+P1138,Fitness Lite 139,Sports & Outdoors,Fitness Equipment,Orbit,52.31,71.35
+P1139,Fitness Neo 977,Sports & Outdoors,Fitness Equipment,Kindred,104.3,189.7
+P1140,Fitness Neo 445,Sports & Outdoors,Fitness Equipment,Orbit,145.94,234.69
+P1141,Outdoor Classic 193,Sports & Outdoors,Outdoor Gear,Orbit,110.48,192.52
+P1142,Outdoor Edge 159,Sports & Outdoors,Outdoor Gear,Pulse,145.38,245.67
+P1143,Outdoor Pro 855,Sports & Outdoors,Outdoor Gear,Kindred,122.79,191.49
+P1144,Outdoor Lite 286,Sports & Outdoors,Outdoor Gear,Novara,61.38,80.68
+P1145,Outdoor Lite 407,Sports & Outdoors,Outdoor Gear,Urban Edge,23.26,34.49
+P1146,Sportswear Classic 466,Sports & Outdoors,Sportswear,Novara,37.68,62.27
+P1147,Sportswear Pro 391,Sports & Outdoors,Sportswear,Nimbus,20.6,31.13
+P1148,Sportswear Neo 959,Sports & Outdoors,Sportswear,Pulse,128.48,241.68
+P1149,Sportswear Pro 629,Sports & Outdoors,Sportswear,Aster,34.79,63.07
+P1150,Sportswear Lite 343,Sports & Outdoors,Sportswear,Nimbus,103.96,152.2
+P1151,Sportswear Plus 185,Sports & Outdoors,Sportswear,Pulse,92.98,139.1
+P1152,Sportswear Max 972,Sports & Outdoors,Sportswear,Kindred,71.78,128.3
+P1153,Cycling Classic 654,Sports & Outdoors,Cycling,Zenith,148.95,186.64
+P1154,Cycling Plus 104,Sports & Outdoors,Cycling,Aster,129.14,200.52
+P1155,Cycling Edge 234,Sports & Outdoors,Cycling,Nimbus,48.54,85.13
+P1156,Cycling Classic 436,Sports & Outdoors,Cycling,Novara,152.63,277.9
+P1157,Team Pro 475,Sports & Outdoors,Team Sports,Novara,112.0,166.93
+P1158,Team Pro 555,Sports & Outdoors,Team Sports,Nimbus,15.75,25.02
+P1159,Team Neo 569,Sports & Outdoors,Team Sports,Kindred,19.62,30.42
+P1160,Team Max 472,Sports & Outdoors,Team Sports,Kindred,107.2,190.37

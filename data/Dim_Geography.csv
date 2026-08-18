@@ -1,0 +1,31 @@
+StoreID,City,State,Region,StoreType
+S101,New Delhi,Delhi,North,Standard
+S102,Ludhiana,Punjab,North,Compact
+S103,Lucknow,Uttar Pradesh,North,Standard
+S104,Lucknow,Uttar Pradesh,North,Standard
+S105,Gorakhpur,Uttar Pradesh,North,Flagship
+S106,Gorakhpur,Uttar Pradesh,North,Standard
+S107,Gurugram,Haryana,North,Compact
+S108,Bengaluru,Karnataka,South,Flagship
+S109,Bengaluru,Karnataka,South,Compact
+S110,Chennai,Tamil Nadu,South,Compact
+S111,Chennai,Tamil Nadu,South,Flagship
+S112,Hyderabad,Telangana,South,Compact
+S113,Kochi,Kerala,South,Flagship
+S114,Kochi,Kerala,South,Flagship
+S115,Vijayawada,Andhra Pradesh,South,Compact
+S116,Vijayawada,Andhra Pradesh,South,Standard
+S117,Kolkata,West Bengal,East,Compact
+S118,Kolkata,West Bengal,East,Standard
+S119,Bhubaneswar,Odisha,East,Standard
+S120,Bhubaneswar,Odisha,East,Standard
+S121,Patna,Bihar,East,Compact
+S122,Patna,Bihar,East,Standard
+S123,Ranchi,Jharkhand,East,Standard
+S124,Mumbai,Maharashtra,West,Compact
+S125,Mumbai,Maharashtra,West,Flagship
+S126,Pune,Maharashtra,West,Compact
+S127,Ahmedabad,Gujarat,West,Compact
+S128,Surat,Gujarat,West,Compact
+S129,Surat,Gujarat,West,Compact
+S130,Jaipur,Rajasthan,West,Flagship
